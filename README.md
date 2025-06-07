@@ -20,3 +20,6 @@ Exemplos de resultado das consultas
 Listar transações, Valor investido por carteira e Quantidade total de cada criptomoeda.
 
 https://www.db-fiddle.com/f/bYoZ4bAmkQiPUMaGsNYumF/0
+
+<img width="512" alt="diagrama" src="https://github.com/user-attachments/assets/197208a2-2ebc-40e9-b137-22a692f34147" />
+
